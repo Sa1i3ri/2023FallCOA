@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/1/183-coa2023-programming01/pom.xml" />
+        <option value="$PROJECT_DIR$/2/4cc74cba54d940db8c488b77d1cb34d2/185-coa2023-programming02/pom.xml" />
+        <option value="$PROJECT_DIR$/3/f0398a33e51c463687f50cf6f6b01df5/186-coa2023-programming03/pom.xml" />
+        <option value="$PROJECT_DIR$/4/74ff22327ba940e3b97b85b6a061db67/187-coa2023-programming04/pom.xml" />
+        <option value="$PROJECT_DIR$/5/4550b591b9c64a9eacaf92158ed994e0/188-coa2023-programming05/pom.xml" />
+        <option value="$PROJECT_DIR$/6/aa496c077fec455d8a33b6a15cbc8605/189-coa2023-programming06/pom.xml" />
+        <option value="$PROJECT_DIR$/7/dfa2fcd1190748c2883ab2d7947268a2/190-coa2023-programming07/pom.xml" />
+        <option value="$PROJECT_DIR$/8/12ae5ccd59f847f09f46e7c740e321e0/192-coa2023-programming08/pom.xml" />
+        <option value="$PROJECT_DIR$/9/141b13d315b04f2bac98228744665050/191-coa2023-programming09/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
